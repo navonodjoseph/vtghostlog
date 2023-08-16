@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* App.css (or your custom CSS file) */
+
+.project-container {
+    border: 1px solid #ccc; /* Add a border around the entire project */
+    margin: 20px; /* Add some margin for spacing */
+    padding: 20px; /* Add some padding for spacing */
+    display: flex; 
+    flex-direction: column;
+  }
+
+.split-screen-container {
+  display: flex;
+  flex-grow: 1;
+}
+
+.map-container {
+  flex: 1;
+  padding-right: 10px;
+}
+
+  .list-container {
+    flex: 1;
+    overflow-y: auto;
+    border: 1px solid #ccc; /* Add a border */
+    padding: 10px; /* Add some padding for spacing */
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    background-color: white; /* Default background color for list items */
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Add a border at the bottom of each list item */
+  }
+  
+  li:nth-child(even) {
+    background-color: #f2f2f2; /* Background color for even list items */
+  }
+
+  
