@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vtghostlog/static/css/main.f368832e.css",
+    "main.js": "/vtghostlog/static/js/main.b9a41f79.js",
+    "static/js/787.1cc72747.chunk.js": "/vtghostlog/static/js/787.1cc72747.chunk.js",
+    "static/media/logo.svg": "/vtghostlog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vtghostlog/index.html",
+    "main.f368832e.css.map": "/vtghostlog/static/css/main.f368832e.css.map",
+    "main.b9a41f79.js.map": "/vtghostlog/static/js/main.b9a41f79.js.map",
+    "787.1cc72747.chunk.js.map": "/vtghostlog/static/js/787.1cc72747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f368832e.css",
+    "static/js/main.b9a41f79.js"
+  ]
+}
